@@ -1,4 +1,4 @@
-### Hi there 👋
+### these are some of the code I've written, am going through uploading more projects and polishing up the code so it actually might be helpful
 
 <!--
 **iiisong/iiisong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
